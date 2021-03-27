@@ -1,0 +1,16 @@
+{
+    "name": "V2Fly",
+    "description": "Deploy V2Fly on Heroku.",
+    "keywords": [
+        "V2Fly"
+    ],
+    "env": {
+        "UUID": {
+            "description": "V2Fly UUID",
+            "value": "87f1290a-f981-4bec-a2eb-c320ef136bd2"
+        }
+    },
+    "website": "https://www.wasdjkl.com",
+    "repository": "https://github.com/wasdjkl/heroku-v2fly",
+    "stack": "container"
+}
